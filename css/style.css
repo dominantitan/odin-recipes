@@ -1,0 +1,40 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
+
+body{
+    text-align: center;
+    background-color: rgb(255, 255, 17);
+    border: solid 25px orange;
+}
+
+h1,
+h2,
+.web-intro{
+    margin: 20px 0px;
+}
+
+h1.index {
+    display:inline-block;
+    background-color: gold;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.wd-ul {
+    text-align:left;
+    padding-left:570px; 
+}
+
+a {
+    display:block-inline;
+    background-color: gold;
+    color:black;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+
